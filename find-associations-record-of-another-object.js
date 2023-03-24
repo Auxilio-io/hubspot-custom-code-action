@@ -1,4 +1,3 @@
-const hubspot = require('@hubspot/api-client');
 var http = require("https");
 
 exports.main = async (event, callback) => {
